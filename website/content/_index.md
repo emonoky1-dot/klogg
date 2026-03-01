@@ -1,7 +1,7 @@
----
+---emon
 title: "About"
 type: docs
----
+---emon
 
 ## Faster log explorer
 
